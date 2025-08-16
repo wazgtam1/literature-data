@@ -2,26 +2,56 @@
   "papers": [
     {
       "id": 1,
-      "title": "测试论文1",
+      "title": "测试论文：手势识别技术研究",
       "authors": [
-        "测试作者"
+        "张三",
+        "李四"
       ],
       "year": 2024,
-      "journal": "测试期刊",
-      "abstract": "这是一个测试论文的摘要"
+      "journal": "计算机视觉学报",
+      "researchArea": "HCI New Wearable Devices",
+      "methodology": "Experimental",
+      "studyType": "Empirical",
+      "keywords": [
+        "手势识别",
+        "机器学习",
+        "人机交互"
+      ],
+      "citations": 10,
+      "downloads": 150,
+      "abstract": "本文提出了一种基于深度学习的手势识别方法，通过分析手部运动轨迹实现准确的手势分类。实验结果表明该方法在准确率和实时性方面都有显著提升。",
+      "doi": "10.1000/test.2024.001",
+      "websiteUrl": "https://example.com/paper1",
+      "pdfFileSize": 1024000,
+      "isPersistentPDF": false
     },
     {
       "id": 2,
-      "title": "测试论文2",
+      "title": "测试论文：可穿戴设备交互设计",
       "authors": [
-        "另一个作者"
+        "王五",
+        "赵六"
       ],
       "year": 2023,
-      "journal": "另一个期刊",
-      "abstract": "这是另一个测试论文的摘要"
+      "journal": "交互设计研究",
+      "researchArea": "Mobile Device",
+      "methodology": "Survey",
+      "studyType": "Theoretical",
+      "keywords": [
+        "可穿戴设备",
+        "用户体验",
+        "交互设计"
+      ],
+      "citations": 25,
+      "downloads": 200,
+      "abstract": "本研究通过用户调研和实验分析，探讨了可穿戴设备的交互设计原则和最佳实践，为未来的设备设计提供了重要参考。",
+      "doi": "10.1000/test.2023.002",
+      "websiteUrl": "https://example.com/paper2",
+      "pdfFileSize": 2048000,
+      "isPersistentPDF": false
     }
   ],
-  "lastUpdate": "2025-08-16T06:11:15.317Z",
+  "lastUpdate": "2025-08-16T06:25:24.061Z",
   "totalCount": 2,
   "version": "1.0"
 }
