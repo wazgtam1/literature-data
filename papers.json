@@ -198,11 +198,7 @@
       "websiteUrl": "#",
       "thumbnail": null,
       "pdfFileSize": 8637580,
-      "originalFileSize": 12339401,
-      "isCompressed": true,
       "isPersistentPDF": true,
-      "parseWarning": true,
-      "pdfFile": {},
       "id": 7,
       "isCloudSynced": true,
       "syncTime": "2025-08-16T09:16:46.660Z"
@@ -227,11 +223,7 @@
       "websiteUrl": "#",
       "thumbnail": null,
       "pdfFileSize": 4881166,
-      "originalFileSize": 6973095,
-      "isCompressed": true,
       "isPersistentPDF": true,
-      "parseWarning": true,
-      "pdfFile": {},
       "id": 8,
       "isCloudSynced": true,
       "syncTime": "2025-08-16T09:17:02.948Z"
@@ -256,17 +248,14 @@
       "websiteUrl": "#",
       "thumbnail": null,
       "pdfFileSize": 6016950,
-      "originalFileSize": 8595644,
-      "isCompressed": true,
       "isPersistentPDF": true,
-      "parseWarning": true,
-      "pdfFile": {},
       "id": 9,
       "isCloudSynced": true,
       "syncTime": "2025-08-16T09:16:54.033Z"
     }
   ],
-  "lastUpdate": "2025-08-16T09:17:02.949Z",
+  "lastUpdate": "2025-08-16T09:17:05.439Z",
   "totalCount": 9,
-  "version": "1.0"
+  "version": "1.0",
+  "description": "Public research papers database - automatically updated"
 }
